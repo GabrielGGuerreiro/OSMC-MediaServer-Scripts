@@ -1,5 +1,6 @@
-Use this script to test it
+After installing and enabling SSH on OSMC, run the script line bellow to install CouchPotato and SickChill
 
 wget -O - https://raw.githubusercontent.com/GabrielGGuerreiro/OSMC-MediaServer-Scripts/master/easyinstall.sh | bash
 
 [It's untested]
+Good Luck
