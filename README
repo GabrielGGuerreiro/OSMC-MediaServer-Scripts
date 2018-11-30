@@ -1,0 +1,5 @@
+Use this script to test it
+
+wget -O - https://raw.githubusercontent.com/GabrielGGuerreiro/OSMC-MediaServer-Scripts/master/easyinstall.sh | bash
+
+[It's untested]
